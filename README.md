@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Full Stack Web Development, Java with DSA.**
 
 - 👨‍💻 All of my profile links are available at [https://linktr.ee/Arun_kumar081](https://linktr.ee/Arun_kumar081)
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/dKc2fBq97S9gIzLX2j/200.webp">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

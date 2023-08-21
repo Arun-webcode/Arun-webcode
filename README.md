@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 💬 Ask me about **Java, Data Structure, Html, Css, Javascript.**
+- 💬 Ask me about **Java, Data Structure, Html, CSS, Javascript.**
 
 - 📫 How to reach me **arun.webcode@gmail.com**
 

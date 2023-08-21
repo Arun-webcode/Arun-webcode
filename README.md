@@ -11,10 +11,10 @@
 
 - 📫 How to reach me **arun.webcode@gmail.com**
 
-- Click here for reaching my CV - [https://docs.google.com/document/d/1wsqXlXYkPv-KJn2rUo_QBl1PxkYFP5x1/edit](https://docs.google.com/document/d/1wsqXlXYkPv-KJn2rUo_QBl1PxkYFP5x1/edit)
+- For reaching my CV - [Click Here](https://docs.google.com/document/d/1wsqXlXYkPv-KJn2rUo_QBl1PxkYFP5x1/edit)
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/Arun-webcode/Arun-webcode/blob/main/clap_low_res-16462.gif?raw=true">
 <p align="left">
 <a href="https://codepen.io/arun-webcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arun-webcode" height="30" width="40" /></a>
 <a href="https://twitter.com/arun8586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun8586" height="30" width="40" /></a>

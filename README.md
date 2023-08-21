@@ -5,17 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-webcode&label=Profile%20views&color=0e75b6&style=flat" alt="arun-webcode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arun-webcode" alt="arun-webcode" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development.**
 
-- 💬 Ask me about **Java, Data Structure, Html, CSS, Javascript.**
+- 💬 Ask me about **Java, Data Structure, Html, CSS, and Javascript.**
 
 - 📫 How to reach me **arun.webcode@gmail.com**
 
 - Click here for reaching my CV - [https://docs.google.com/document/d/1wsqXlXYkPv-KJn2rUo_QBl1PxkYFP5x1/edit](https://docs.google.com/document/d/1wsqXlXYkPv-KJn2rUo_QBl1PxkYFP5x1/edit)
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left">
 <a href="https://codepen.io/arun-webcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arun-webcode" height="30" width="40" /></a>
 <a href="https://twitter.com/arun8586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun8586" height="30" width="40" /></a>

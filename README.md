@@ -1,4 +1,4 @@
-![logo](https://github.com/Arun-webcode/Arun-webcode/blob/main/Arunlogo.jpeg?raw=true)
+![logo](https://github.com/Arun-webcode/Arun-webcode/blob/main/githubheader.png)
 
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A passionate Software developer from Faridabad-Haryana(India).</h3>

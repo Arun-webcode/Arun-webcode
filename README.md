@@ -21,7 +21,6 @@
 - 👨‍💻 All my work: [Projects Portfolio](https://bit.ly/3WZ7aHe)
 - 💬 Ask me about: **Web Tech, Networking & Security**
 - 📫 Reach me at: **arun.webcode@gmail.com**
-- 📄 [Resume](https://bit.ly/4cSdnuN)
 - ⚡ Fun Fact: *Love is easy, but I am busy...*
 
 ---

@@ -80,13 +80,12 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arun-webcode&theme=gruvbox&show_icons=true&count_private=true&hide_border=false" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-webcode&theme=gruvbox&hide_border=false" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-webcode&theme=gruvbox&layout=compact&hide_border=false" alt="langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arun-webcode&theme=gruvbox&show_icons=true&count_private=true&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-webcode&theme=gruvbox&layout=compact&hide_border=false" width="48%" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-webcode&theme=gruvbox&hide_border=false" width="90%" />
+</div>
 
 ---
 
@@ -97,16 +96,14 @@
 
 ---
 
-### 👣 Visitor Count
+### 👣 Visitors
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=arun-webcode&icon=0&color=0" />
-  </a>
+  <i>Visitor tracking is paused, but you're still awesome! 🚀</i>
 </p>
 
 ---
 
-<!-- Credits -->
+<!-- Footer -->
 <p align="center">
-  <sub>Proudly created with ❤️ by Arun | Inspired by <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></sub>
+  <sub>🛠️ Crafted with pride by Arun.webcode | Powered by ❤️ | Designed using <a href="https://gprm.itsvg.in">GPRM</a></sub>
 </p>

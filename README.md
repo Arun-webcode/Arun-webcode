@@ -1,43 +1,112 @@
-![logo](https://github.com/Arun-webcode/Arun-webcode/blob/main/1.png)
-  
-<h1 align="center">Hi 👋, I'm Arun</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arun-webcode&label=Profile%20views&color=0e75b6&style=flat" alt="arun-webcode" /> </p>
-
-<p align="left"> <a href="https://twitter.com/arun8586" target="blank"><img src="https://img.shields.io/twitter/follow/arun8586?logo=twitter&style=for-the-badge" alt="arun8586" /></a> </p>
-
-- 🌱 I’m currently learning **Frameworks, Live Projects, Tools, Security and Analysis**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://bit.ly/3WZ7aHe](https://bit.ly/3WZ7aHe)
-
-- 💬 Ask me about **Web Techs, Computer Networking and Security**
-
-- 📫 How to reach me **arun.webcode@gmail.com**
-
-- 📄 Reach My Resume [https://bit.ly/4cSdnuN](https://bit.ly/4cSdnuN)
-
-- ⚡ Fun fact **Love is easy but I am Busy...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/arun-webcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arun-webcode" height="30" width="40" /></a>
-<a href="https://twitter.com/arun8586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arun8586" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arunwebcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunwebcode" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/arun-webcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arun-webcode" height="30" width="40" /></a>
-<a href="https://instagram.com/arun.webcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arun.webcode" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vikrantkumarpra1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikrantkumarpra1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/arun_webcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arun_webcode" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arun_webcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arun_webcode" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/Arun-webcode/Arun-webcode/blob/main/1.png" alt="banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Arun</h1>
+<h3 align="center">🚀 A passionate Software Developer from India</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arun-webcode&show_icons=true&locale=en&layout=compact" alt="arun-webcode" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arun-webcode&label=Profile%20views&color=0e75b6&style=flat" alt="arun-webcode" />
+  <a href="https://twitter.com/arun8586" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/arun8586?logo=twitter&style=flat" alt="arun8586" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arun-webcode&show_icons=true&locale=en" alt="arun-webcode" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arun-webcode&" alt="arun-webcode" /></p>
+### 🌟 About Me
+- 🌱 I’m currently learning: **Frameworks, Live Projects, Tools, Security & Analysis**
+- 👯 Looking to collaborate on: **Open Source Projects**
+- 👨‍💻 All my work: [Projects Portfolio](https://bit.ly/3WZ7aHe)
+- 💬 Ask me about: **Web Tech, Networking & Security**
+- 📫 Reach me at: **arun.webcode@gmail.com**
+- 📄 [Resume](https://bit.ly/4cSdnuN)
+- ⚡ Fun Fact: *Love is easy, but I am busy...*
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/arunwebcode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/arun.webcode" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/arun8586" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:arun.webcode@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://codepen.io/arun-webcode" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white" /></a>
+  <a href="https://www.leetcode.com/arun_webcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/arun-webcode" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/arun_webcode" target="_blank"><img src="https://img.shields.io/badge/GFG-%2300FF00.svg?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/vikrantkumarpra1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" /></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=ionic&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" /></td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arun-webcode&theme=gruvbox&show_icons=true&count_private=true&hide_border=false" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arun-webcode&theme=gruvbox&hide_border=false" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun-webcode&theme=gruvbox&layout=compact&hide_border=false" alt="langs" />
+</p>
+
+---
+
+### 🏆 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=arun-webcode&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+### 👣 Visitor Count
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=arun-webcode&icon=0&color=0" />
+  </a>
+</p>
+
+---
+
+<!-- Credits -->
+<p align="center">
+  <sub>Proudly created with ❤️ by Arun | Inspired by <a href="https://gprm.itsvg.in" target="_blank">GPRM</a></sub>
+</p>
